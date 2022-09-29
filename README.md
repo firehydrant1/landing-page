@@ -1,2 +1,3 @@
-# landing-page
-landing-page
+landing page creation
+This exercise helps creation of landing page
+
